@@ -1,0 +1,70 @@
+header{
+	color: black;
+	background-color: orange;
+	width: 1255px;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 0px;
+	height: 142px;
+}
+
+nav{
+	margin-top: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	box-sizing: border-box;
+	width: 100%;
+	background-color: purple;
+	text-align: center;
+}
+
+nav li{
+	color: black;
+	font-size: 25px;
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+main{
+	margin-top: 0px;
+	background-color: lightgoldenrodyellow;
+	display: flex;
+}
+
+.substable{
+	background-color: lightgoldenrodyellow;
+	color: white;
+	border-spacing: 3px 3px;
+	box-sizing: border-box;
+}
+
+.substable thead{
+	background-color: purple;
+	height: 60px;
+}
+
+.substable th{
+	padding-right: 40px;
+}
+
+.substable td{
+	height: 60px;
+	padding-left: 20x;
+}
+
+.substable tbody{
+	background-color: mediumpurple;
+}
+
+.watersub{
+	float: left;
+}
+
+footer{
+	background-color: orange;
+	color: black;
+	height: 30px;
+	padding-top: 20px;
+	text-align: center;
+}
