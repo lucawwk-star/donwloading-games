@@ -10,3 +10,12 @@ header{
 	font-style: italic;
 	font-weight: bold;
 }
+
+nav{
+	background-color: lightyellow;
+	font-size: 25px;
+}
+
+h1{
+	margin: 0px;
+}
